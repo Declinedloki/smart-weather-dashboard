@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(to bottom right, #eef4ff, #dce9ff);
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.card {
+  border: none;
+  border-radius: 14px;
+}
+
+.weather-icon {
+  width: 90px;
+  height: 90px;
+}
+
+.forecast-card {
+  background-color: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  padding: 16px;
+  height: 100%;
+}
+
+.history-btn {
+  text-align: left;
+}
+
+@media (max-width: 767px) {
+  .weather-icon {
+    width: 70px;
+    height: 70px;
+  }
+}
