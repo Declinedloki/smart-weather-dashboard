@@ -38,9 +38,6 @@ As a user, I want to search for a city and view current weather conditions and a
 - Error modal
 - Temperature unit toggle
 
-## Screenshot
-![SmartWeather Dashboard Screenshot](assets/images/screenshot.png)
-
 ## Deployed Application
 [Live Application](https://declinedloki.github.io/smart-weather-dashboard/)
 
